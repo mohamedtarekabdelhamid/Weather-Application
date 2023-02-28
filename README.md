@@ -6,7 +6,7 @@ To get started with this project, you'll need to have Node.js and npm installed 
 
 Once you have Node.js and npm installed, follow these steps:
 
-1. Clone the repository to your local machine using git clone https://github.com/mohamedtarekabdelhamid/Weather-Application.git.
+1. Clone the repository to your local machine.
 2. Navigate to the project directory using cd weather-application.
 3. Install the dependencies using npm install.
 4. Start the server using npm start.
